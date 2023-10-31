@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Kazuo Momma</h1>
-<h3 align="center">A passionate frontend developer from Brazil, student of course internet Systems on Fatec São Roque</h3>
+<h3 align="center">A passionate frontend developer from Brazil, student of course Systems for Internet on Fatec São Roque</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazualkun&label=Profile%20views&color=0e75b6&style=flat" alt="kazualkun" /> </p>
 
