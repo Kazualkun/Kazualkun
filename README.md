@@ -5,7 +5,9 @@
 
 - I am a musician working on [Sol Minguante](https://www.youtube.com/@solminguante4181)
 
-- 🌱 I’m currently learning **CSS, HTML, PHP, SQL, Python and Design**
+- 🌱 I’m currently learning **CSS, HTML, PHP, SQL, Python, Fluttler, Dart and Design**
+
+- Problems with your PC? I can fix it, I have Hardware skills too.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kazualkun/Portfolio.git](https://github.com/Kazualkun/Portfolio.git)
 
