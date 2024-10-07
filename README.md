@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **CSS, HTML, PHP, SQL, Python, Fluttler, Dart and Design**
 
-- Problems with your PC? I can fix it, I have Hardware skills too.
+- Problems with your PC? I can fix it, I have Hardware skills too;
 
-- 👨‍💻 All of my projects are available at (https://github.com/Kazualkun?tab=repositories)](https://github.com/Kazualkun?tab=repositories)
+- 👨‍💻 All of my projects are available at my repositories;
 
-- 📫 How to reach me **ikazualtwitch@gmail.com**
+- 📫 How to reach me **ikazualtwitch@gmail.com**;
 
-- 📄 Know about my experiences [https://github.com/Kazualkun/Resume.git](https://github.com/Kazualkun/Resume.git)
+- 📄 Know about my experiences on my Linkedin;
 
-- Working on "Hospital São Francisco São Roque"
+- Working on "Hospital São Francisco São Roque" as System Anlyst;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
