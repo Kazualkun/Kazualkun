@@ -7,7 +7,7 @@
 
 - Problems with your PC? I can fix it, I have Hardware skills too.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kazualkun/Portfolio.git](https://github.com/Kazualkun/Portfolio.git)
+- 👨‍💻 All of my projects are available at [[https://github.com/Kazualkun/Portfolio.git][(https://github.com/Kazualkun/Portfolio.git)](https://github.com/Kazualkun?tab=repositories)](https://github.com/Kazualkun?tab=repositories)
 
 - 📫 How to reach me **ikazualtwitch@gmail.com**
 
