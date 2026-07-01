@@ -64,26 +64,33 @@ class GustavoKazuo:
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
-*Dica: adicione aqui o link do repositório e um GIF/print da aplicação para dar aquele toque interativo.*
-`🔗 [Ver projeto](https://github.com/Kazualkun/imacardios)`
+🔒 Repositório privado · 🌐 **Acesse a aplicação ao vivo:** [app.imacardios.com](https://app.imacardios.com)
+
+<p align="left">
+  <a href="https://app.imacardios.com" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Acessar_o_iMacardios-4C1D95?style=for-the-badge&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 📂 Repositórios em destaque
 
+<!--
+Cole abaixo os nomes exatos dos seus repositórios PÚBLICOS.
+Basta duplicar o bloco <a>...</a> e trocar o valor de repo= para cada um.
+-->
+
 <p align="left">
-  <a href="https://github.com/Kazualkun/imacardios" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=imacardios&theme=tokyonight&hide_border=true" alt="iMacardios"/>
+  <a href="https://github.com/Kazualkun/NOME-DO-REPO-1" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=NOME-DO-REPO-1&theme=tokyonight&hide_border=true" alt="repo 1"/>
+  </a>
+  <a href="https://github.com/Kazualkun/NOME-DO-REPO-2" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=NOME-DO-REPO-2&theme=tokyonight&hide_border=true" alt="repo 2"/>
   </a>
 </p>
 
-<!--
-Para exibir mais repositórios, copie o bloco acima e troque o parâmetro "repo=" pelo nome exato do repositório.
-Exemplo:
-  <a href="https://github.com/Kazualkun/nome-do-repo" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=nome-do-repo&theme=tokyonight&hide_border=true"/>
-  </a>
--->
+> ℹ️ Substitua `NOME-DO-REPO-1` e `NOME-DO-REPO-2` pelos nomes reais dos seus repositórios públicos (respeitando maiúsculas/minúsculas). Adicione ou remova blocos conforme necessário.
 
 ---
 
@@ -91,34 +98,31 @@ Exemplo:
 
 **Linguagens**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,cs,mysql" alt="Linguagens"/>
+</p>
 
 **IA / Data Science**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="IA / Data Science"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black"/>
+</p>
 
 **Web & Backend**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,php" alt="Web & Backend"/>
+</p>
 
 **Infra & Ferramentas**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,linux" alt="Infra & Ferramentas"/>
+</p>
 
 ---
 
@@ -135,15 +139,7 @@ Exemplo:
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kazualkun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kazualkun&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazualkun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kazualkun&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazualkun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -205,26 +201,33 @@ class GustavoKazuo:
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
-*Tip: add the repository link and a GIF/screenshot of the app here for an interactive touch.*
-`🔗 [View project](https://github.com/Kazualkun/imacardios)`
+🔒 Private repository · 🌐 **Try the live app:** [app.imacardios.com](https://app.imacardios.com)
+
+<p align="left">
+  <a href="https://app.imacardios.com" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Open_iMacardios-4C1D95?style=for-the-badge&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 📂 Pinned Repositories
 
+<!--
+Paste the exact names of your PUBLIC repositories below.
+Just duplicate the <a>...</a> block and change the repo= value for each one.
+-->
+
 <p align="left">
-  <a href="https://github.com/Kazualkun/imacardios" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=imacardios&theme=tokyonight&hide_border=true" alt="iMacardios"/>
+  <a href="https://github.com/Kazualkun/REPO-NAME-1" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=REPO-NAME-1&theme=tokyonight&hide_border=true" alt="repo 1"/>
+  </a>
+  <a href="https://github.com/Kazualkun/REPO-NAME-2" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=REPO-NAME-2&theme=tokyonight&hide_border=true" alt="repo 2"/>
   </a>
 </p>
 
-<!--
-To show more repositories, copy the block above and replace the "repo=" parameter with the exact repository name.
-Example:
-  <a href="https://github.com/Kazualkun/repo-name" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=repo-name&theme=tokyonight&hide_border=true"/>
-  </a>
--->
+> ℹ️ Replace `REPO-NAME-1` and `REPO-NAME-2` with your actual public repository names (case-sensitive). Add or remove blocks as needed.
 
 ---
 
@@ -232,34 +235,31 @@ Example:
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,cs,mysql" alt="Languages"/>
+</p>
 
 **AI / Data Science**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="AI / Data Science"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black"/>
+</p>
 
 **Web & Backend**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,php" alt="Web & Backend"/>
+</p>
 
 **Infra & Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,linux" alt="Infra & Tools"/>
+</p>
 
 ---
 
@@ -276,15 +276,7 @@ Example:
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kazualkun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kazualkun&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazualkun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kazualkun&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazualkun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
