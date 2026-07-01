@@ -13,7 +13,7 @@
   <a href="mailto:ikazualtwitch@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=kazuomomma&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Kazualkun&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </p>
 
 <p align="center">
@@ -65,23 +65,23 @@ class GustavoKazuo:
 </p>
 
 *Dica: adicione aqui o link do repositório e um GIF/print da aplicação para dar aquele toque interativo.*
-`🔗 [Ver projeto](https://github.com/kazuomomma/imacardios)`
+`🔗 [Ver projeto](https://github.com/Kazualkun/imacardios)`
 
 ---
 
 ### 📂 Repositórios em destaque
 
 <p align="left">
-  <a href="https://github.com/kazuomomma/imacardios" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kazuomomma&repo=imacardios&theme=tokyonight&hide_border=true" alt="iMacardios"/>
+  <a href="https://github.com/Kazualkun/imacardios" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=imacardios&theme=tokyonight&hide_border=true" alt="iMacardios"/>
   </a>
 </p>
 
 <!--
 Para exibir mais repositórios, copie o bloco acima e troque o parâmetro "repo=" pelo nome exato do repositório.
 Exemplo:
-  <a href="https://github.com/kazuomomma/nome-do-repo" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kazuomomma&repo=nome-do-repo&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/Kazualkun/nome-do-repo" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=nome-do-repo&theme=tokyonight&hide_border=true"/>
   </a>
 -->
 
@@ -134,16 +134,16 @@ Exemplo:
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kazuomomma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kazuomomma&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kazualkun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kazualkun&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazuomomma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazualkun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kazuomomma&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kazualkun&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
 </p>
 
 ---
@@ -206,23 +206,23 @@ class GustavoKazuo:
 </p>
 
 *Tip: add the repository link and a GIF/screenshot of the app here for an interactive touch.*
-`🔗 [View project](https://github.com/kazuomomma/imacardios)`
+`🔗 [View project](https://github.com/Kazualkun/imacardios)`
 
 ---
 
 ### 📂 Pinned Repositories
 
 <p align="left">
-  <a href="https://github.com/kazuomomma/imacardios" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kazuomomma&repo=imacardios&theme=tokyonight&hide_border=true" alt="iMacardios"/>
+  <a href="https://github.com/Kazualkun/imacardios" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=imacardios&theme=tokyonight&hide_border=true" alt="iMacardios"/>
   </a>
 </p>
 
 <!--
 To show more repositories, copy the block above and replace the "repo=" parameter with the exact repository name.
 Example:
-  <a href="https://github.com/kazuomomma/repo-name" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kazuomomma&repo=repo-name&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/Kazualkun/repo-name" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=repo-name&theme=tokyonight&hide_border=true"/>
   </a>
 -->
 
@@ -275,16 +275,16 @@ Example:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kazuomomma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kazuomomma&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kazualkun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kazualkun&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazuomomma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazualkun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kazuomomma&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kazualkun&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
 </p>
 
 ---
