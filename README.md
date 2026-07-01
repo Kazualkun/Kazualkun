@@ -76,21 +76,29 @@ class GustavoKazuo:
 
 ### 📂 Repositórios em destaque
 
-<!--
-Cole abaixo os nomes exatos dos seus repositórios PÚBLICOS.
-Basta duplicar o bloco <a>...</a> e trocar o valor de repo= para cada um.
--->
-
 <p align="left">
-  <a href="https://github.com/Kazualkun/NOME-DO-REPO-1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=NOME-DO-REPO-1&theme=tokyonight&hide_border=true" alt="repo 1"/>
+  <a href="https://github.com/Kazualkun/Fintech-AI---Stock-Analysis-Prediction" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=Fintech-AI---Stock-Analysis-Prediction&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Fintech AI - Stock Analysis & Prediction"/>
   </a>
-  <a href="https://github.com/Kazualkun/NOME-DO-REPO-2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=NOME-DO-REPO-2&theme=tokyonight&hide_border=true" alt="repo 2"/>
+  <a href="https://github.com/Kazualkun/Urban_Risk_Inteligence_Sorocaba" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=Urban_Risk_Inteligence_Sorocaba&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Urban Risk Intelligence Sorocaba"/>
   </a>
 </p>
 
-> ℹ️ Substitua `NOME-DO-REPO-1` e `NOME-DO-REPO-2` pelos nomes reais dos seus repositórios públicos (respeitando maiúsculas/minúsculas). Adicione ou remova blocos conforme necessário.
+<p align="left">
+  <a href="https://github.com/Kazualkun/evolution-of-cooperation" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=evolution-of-cooperation&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Evolution of Cooperation"/>
+  </a>
+  <a href="https://github.com/Kazualkun/FlutterProjects" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=FlutterProjects&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Flutter Projects"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Kazualkun/Programs" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=Programs&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Programs"/>
+  </a>
+</p>
 
 ---
 
@@ -115,7 +123,7 @@ Basta duplicar o bloco <a>...</a> e trocar o valor de repo= para cada um.
 **Web & Backend**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,php" alt="Web & Backend"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,php,flutter" alt="Web & Backend"/>
 </p>
 
 **Infra & Ferramentas**
@@ -138,8 +146,8 @@ Basta duplicar o bloco <a>...</a> e trocar o valor de repo= para cada um.
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kazualkun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazualkun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kazualkun&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazualkun&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
 </p>
 
 ---
@@ -213,21 +221,29 @@ class GustavoKazuo:
 
 ### 📂 Pinned Repositories
 
-<!--
-Paste the exact names of your PUBLIC repositories below.
-Just duplicate the <a>...</a> block and change the repo= value for each one.
--->
-
 <p align="left">
-  <a href="https://github.com/Kazualkun/REPO-NAME-1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=REPO-NAME-1&theme=tokyonight&hide_border=true" alt="repo 1"/>
+  <a href="https://github.com/Kazualkun/Fintech-AI---Stock-Analysis-Prediction" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=Fintech-AI---Stock-Analysis-Prediction&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Fintech AI - Stock Analysis & Prediction"/>
   </a>
-  <a href="https://github.com/Kazualkun/REPO-NAME-2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=REPO-NAME-2&theme=tokyonight&hide_border=true" alt="repo 2"/>
+  <a href="https://github.com/Kazualkun/Urban_Risk_Inteligence_Sorocaba" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=Urban_Risk_Inteligence_Sorocaba&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Urban Risk Intelligence Sorocaba"/>
   </a>
 </p>
 
-> ℹ️ Replace `REPO-NAME-1` and `REPO-NAME-2` with your actual public repository names (case-sensitive). Add or remove blocks as needed.
+<p align="left">
+  <a href="https://github.com/Kazualkun/evolution-of-cooperation" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=evolution-of-cooperation&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Evolution of Cooperation"/>
+  </a>
+  <a href="https://github.com/Kazualkun/FlutterProjects" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=FlutterProjects&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Flutter Projects"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Kazualkun/Programs" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazualkun&repo=Programs&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Programs"/>
+  </a>
+</p>
 
 ---
 
@@ -252,7 +268,7 @@ Just duplicate the <a>...</a> block and change the repo= value for each one.
 **Web & Backend**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,php" alt="Web & Backend"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,php,flutter" alt="Web & Backend"/>
 </p>
 
 **Infra & Tools**
@@ -275,8 +291,8 @@ Just duplicate the <a>...</a> block and change the repo= value for each one.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kazualkun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazualkun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kazualkun&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazualkun&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
 </p>
 
 ---
