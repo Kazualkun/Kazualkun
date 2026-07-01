@@ -141,17 +141,6 @@ class GustavoKazuo:
 - ⚙️ IA aplicada a sistemas reais e produtos full-stack
 - 🏗️ Arquiteturas de dados escaláveis e MLOps
 
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kazualkun&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazualkun&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
-</p>
-
----
-
 ### 📫 Contato
 
 <p align="left">
